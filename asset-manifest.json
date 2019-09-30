@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Movie%20App/static/css/main.85575155.chunk.css",
+    "main.js": "/Movie%20App/static/js/main.fa1bf985.chunk.js",
+    "main.js.map": "/Movie%20App/static/js/main.fa1bf985.chunk.js.map",
+    "runtime-main.js": "/Movie%20App/static/js/runtime-main.83ca4cf7.js",
+    "runtime-main.js.map": "/Movie%20App/static/js/runtime-main.83ca4cf7.js.map",
+    "static/js/2.18ef6922.chunk.js": "/Movie%20App/static/js/2.18ef6922.chunk.js",
+    "static/js/2.18ef6922.chunk.js.map": "/Movie%20App/static/js/2.18ef6922.chunk.js.map",
+    "index.html": "/Movie%20App/index.html",
+    "precache-manifest.da9e5fd8cd5c567f3c1cf4e9ff47ee6f.js": "/Movie%20App/precache-manifest.da9e5fd8cd5c567f3c1cf4e9ff47ee6f.js",
+    "service-worker.js": "/Movie%20App/service-worker.js",
+    "static/css/main.85575155.chunk.css.map": "/Movie%20App/static/css/main.85575155.chunk.css.map",
+    "static/media/historyx.jpg": "/Movie%20App/static/media/historyx.4b00deb6.jpg",
+    "static/media/shawshank.jpg": "/Movie%20App/static/media/shawshank.72ad4bdb.jpg",
+    "static/media/trainspotting.jpg": "/Movie%20App/static/media/trainspotting.60df5080.jpg"
+  }
+}
